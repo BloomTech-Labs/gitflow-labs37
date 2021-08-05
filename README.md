@@ -46,9 +46,11 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
 ### Bernie Durfee
-
+### Paul Santora
 ### Alice Karsevar
-
+### Joe Witzke
+### Allen Dela Virgen
+### Rowen Witt
 ### Hugo Orozco
 
 ### I'm a merge clonflict  👻
