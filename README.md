@@ -49,4 +49,5 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-### I'm a merge clonflict  👻
+### Rowen Witt
+
