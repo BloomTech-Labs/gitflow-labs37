@@ -51,6 +51,10 @@ The following is a list of steps and instructions on how to complete this guided
 ### Paul Santora
 ### Alice Karsevar
 
+### Ryder Kline
+
+### Rowen Witt
+
 
 ### Rhia George
 
@@ -61,4 +65,5 @@ The following is a list of steps and instructions on how to complete this guided
 ### Rowen Witt
 
 ### Bruno Paula
+
 
