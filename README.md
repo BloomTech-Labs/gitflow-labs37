@@ -46,4 +46,9 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
 ### Bernie Durfee
+<<<<<<< HEAD
 ### Paul Santora
+=======
+
+### Alice Karsevar
+>>>>>>> 2c1fd8f6983fdebddafd49db9ba9860104906165
