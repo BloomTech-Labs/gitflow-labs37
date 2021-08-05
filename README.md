@@ -51,6 +51,7 @@ The following is a list of steps and instructions on how to complete this guided
 ### Paul Santora
 ### Alice Karsevar
 
+### Andrew Lee
 ### Ryder Kline
 
 ### Rowen Witt
