@@ -50,8 +50,19 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Ryder Kline
 =======
 ### Rowen Witt
 
 >>>>>>> ee226a26b2b40e7a5d69f4286d4d643271b125e7
+=======
+
+
+
+
+### Allen Dela Virgen
+### Rowen Witt
+
+
+>>>>>>> 1ec1899bf3221b4a917cfd5f393bcd9e18022c6b
