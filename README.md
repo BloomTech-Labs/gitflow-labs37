@@ -51,9 +51,13 @@ The following is a list of steps and instructions on how to complete this guided
 ### Paul Santora
 ### Alice Karsevar
 
+<<<<<<< HEAD
+### Fabian Gorka
+=======
 ### Ryder Kline
 
 ### Rowen Witt
+>>>>>>> 30661b012a1f0c3c13c2ad38862e896cc843b690
 
 
 ### Rhia George
